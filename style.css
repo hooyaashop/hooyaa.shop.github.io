@@ -47,7 +47,7 @@ header ul li a:hover{
 }
 .banner{
 	height: 60vh;
-	background-image: url(../img/bn.JPEG);
+	background-image: url(bn.JPEG);
 	background-size: cover;
 	*position: relative;*/
 	display: flex;
