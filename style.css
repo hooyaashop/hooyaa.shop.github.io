@@ -63,11 +63,10 @@ header ul li a:hover{
 	right: 0;
 	*bottom: 0;background-color: rgba(180, 253, 226);*/
 }
-.banner h2{
-	color: #008080;
+.banner h3{
+	color: #922B21;
 	z-index: 1;
 	padding: 20px 25px;
-	border: 3px solid #fff;
 }
 section{
 	padding: 50px 0;
